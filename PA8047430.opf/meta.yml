@@ -1,0 +1,382 @@
+id: PA8047430
+initial_creation_type: input
+source_metadata:
+  title: Advice Series
+  language: en
+  description: 'A series of texts of advice and practical instructions on the path
+    in general as well as more specific topics such as the intermediate states (bar
+    do), Dzogchen, Mahāmudrā and retreat:'
+  volume:
+    1aa32296bb344895b3264b20952c04a0:
+      title: Acrostic Song
+      parent: Acrostic
+    44ade5dfadd342f183788749586d96e1:
+      title: Advice for a Dying Practitioner
+      parent: Bardos
+    b701ff202a0f45af99df7e28c779e5ea:
+      title: 'Crucial Advice: A Complete Set of Instructions for the Bardos'
+      parent: Bardos
+    f94b9a35541a4fa7b559699e1821f762:
+      title: A Brief Introduction to the Bardos
+      parent: Bardos
+    a6ae0c304fc94c20851f439e53272a7a:
+      title: Advice for Garje Khamtrul Rinpoche
+      parent: Dzogchen
+    9e4ef05033894485b612f96645f23ecb:
+      title: Advice on Recognizing the Nature of Mind
+      parent: Dzogchen
+    a1f5b245beba404c8e0e3e4695a38213:
+      title: 'Advice: Emptying the Three Realms of Existence'
+      parent: Dzogchen
+    70a800a4551e4a2487a2d0ea24a00baf:
+      title: Direct Instruction
+      parent: Dzogchen
+    44e030c350444ead9360597a3f6219e7:
+      title: Advice for a King
+      parent: Dzogchen
+    b343d5b919384afaa05c0f2155428e09:
+      title: A Liberating Reminder
+      parent: Dzogchen
+    c5630137eb7c4d7eb50299ecb63f4ebf:
+      title: The Pointing-the-Staff Instruction
+      parent: Dzogchen
+    8dd91b0ac4d4469a8f2c584fc56f4196:
+      title: Advice in a Single Statement (from Khenpo Ngawang Palzang)
+      parent: Dzogchen
+    3f7cbf11c77e4453a35735cbf1cfcfa6:
+      title: Principles of the Dzogchen Practice of Khordé Rushen
+      parent: Dzogchen
+    4288a3934d5b4b098926352828dc1de6:
+      title: The Five Wisdoms
+      parent: Dzogchen
+    4816d2ec01284b1e940698b1de37999c:
+      title: Advice from the Lips of Tertön Sogyal
+      parent: Dzogchen
+    7cc6828688884df5837b2b9b0ffa3de3:
+      title: Notes from the Oral Tradition on Ālaya, Ālaya Consciousness, etc.
+      parent: Dzogchen
+    4b3cb16bbd70465dbd35516d50bfd9b3:
+      title: A Plea to Those who Present ‘Red Offerings’ to Worldly Deities
+      parent: Ethical Guidelines
+    bdff8a561788451eacc3938fd6ef7540:
+      title: Heart Treasure for the Warriors Who Long for Liberation
+      parent: General
+    33e782ec53754f048cbe23e675ee7c95:
+      title: The Bodhisattva’s Garland of Jewels
+      parent: General
+    afaace6168bf4549ae3946d9c0a6c5a1:
+      title: Advice in Three Sets of Three
+      parent: General
+    25c4855998204300bc7aab91180da434:
+      title: Spontaneous Advice Connected with a Prayer
+      parent: General
+    ed08bd1458a24db4a396a8efe9562da0:
+      title: Words of Advice
+      parent: General
+    da8b54fae65b40c5a2ad10f469e41227:
+      title: Pithy Advice on Checking One's Progress on the Path
+      parent: General
+    71aa443ecf054c1f83e7ab6e321f2cc0:
+      title: Heart Advice in Four Lines
+      parent: General
+    8213f98460ac4ea19c9fa954a8f57771:
+      title: On Seeing the Guru as a Buddha
+      parent: General
+    6bb3c3a23104457fa6b4dbd207f69a29:
+      title: On Sleep
+      parent: General
+    2c34d486d618437387d940316308a6c7:
+      title: On the Ignorance of the Learned
+      parent: General
+    c2d4f3fdfbe84fb690546bedb236d8c8:
+      title: Three Ways of Bringing Sickness onto the Path
+      parent: General
+    647177bd526245aaac2b29a49e31a679:
+      title: Turning Suffering & Happiness Into Enlightenment
+      parent: General
+    6746e13e408a4ef8abe1ba4dc535cdeb:
+      title: The Mirror Clearly Showing What to Adopt and Abandon
+      parent: General
+    1bdbfb113c1f4b9d96965d9fbe71e1af:
+      title: Advice for Urgyen Tsomo
+      parent: General
+    7c54a4a5667c40e4b02b9a306316de8f:
+      title: Advice to Lhawang Tashi
+      parent: General
+    5bcef70942bb443c929752a6096e949f:
+      title: A Blissful Path to Awakening
+      parent: General
+    33784a371f9a46a3b2f7c8a9dd489399:
+      title: Advice for Jamyang Losal Zangpo
+      parent: General
+    4e2d3254417d4b9eb548c7e5f3108f87:
+      title: Advice for Karma Chöchok
+      parent: General
+    039e66b55e044a73ad09031ae2b8c373:
+      title: Advice for Khen Rinpoche Jamyang Losal
+      parent: General
+    b5745f2c112949cb89be6684150fddcd:
+      title: Advice for Lakar Ane Kalchö
+      parent: General
+    815a122fe5d84b1ab05747df16db49c4:
+      title: Advice for Nubla Kunzang Chöpel
+      parent: General
+    3224b3d1dd874831887ad3510ad69926:
+      title: Advice for Palpung Situ Rinpoche
+      parent: General
+    b0ff5a3236664ac8946f6d7221a47459:
+      title: Advice for Pema Rangdrol
+      parent: General
+    398ba8ff52a64911838d403cdeaeb748:
+      title: Advice for Zhichen Gyalsé Kunnyi
+      parent: General
+    ad438e6f23a64b5ab8d72de158f5f66d:
+      title: Advice for a Sincere Disciple
+      parent: General
+    19f6cfc55ef9463dbe492e57b91a6759:
+      title: Advice for the Disciple Osam
+      parent: General
+    7032c45d112947b4b5b59c8c09a12ffc:
+      title: Advice in Brief
+      parent: General
+    8500825d12b849b08897eebd5c001d14:
+      title: Advice to Myself
+      parent: General
+    9e9a2ed2b9844055a813ad93d9a41242:
+      title: Advice to Myself Exposing Hidden Flaws
+      parent: General
+    fec14b42515a4dc182829a20e20cc8d5:
+      title: Drops of Nectarous Advice
+      parent: General
+    3a1f5c073fea400a97085fa1f7d37e79:
+      title: Encouragement to Make the Most of the Freedoms and Advantages
+      parent: General
+    ce9cb44c0a61469a8b65667708fecab7:
+      title: Four-Point Advice
+      parent: General
+    c3a71d8000124f4f9186adb395b468c0:
+      title: Khandro's Plea
+      parent: General
+    7ad73b257b8247448071393d366280cf:
+      title: Necessary Advice
+      parent: General
+    add90a2465f1461c89ab8a95d18df239:
+      title: 'Sweet Nectar of the Supreme Vehicle: A Synopsis of the Stages of the
+        Mahāyāna Path'
+      parent: General
+    0c4051fbda8a475eb197bf2893dbc10e:
+      title: 'The Blissful Path to Awakening: A Song on the Essence of Definitive
+        Meaning'
+      parent: General
+    4c8bc9c5c20448b8b93ca5238b822281:
+      title: The String of Pearls Advice
+      parent: General
+    57d8a06e833b4b32ad2603812afe8134:
+      title: 'A Few Words of Commentary to Clarify The Essence of Nectar: Graduated
+        Stages of the Path—Advice for Renunciant Meditators'
+      parent: General
+    a93cb668ca1643a291b45aecd0caabfc:
+      title: 'The Essence of Nectar: Graduated Stages of the Path — Advice for Renunciant
+        Meditators'
+      parent: General
+    880058c4ebda433eafe8b10ee6f3202d:
+      title: Advice for Satsa Drupgen
+      parent: General
+    8a6e86ef292741bfbc8735d07c3112ca:
+      title: An Exhortation to Tibetans
+      parent: General
+    86e38182ba754f33a5800b7d681c5bc7:
+      title: Advice on Yidam Practice
+      parent: General
+    b46ebb6b4de14bb99838dc3489406927:
+      title: Advice on Remembering One’s Parents
+      parent: General
+    4cc7ae44ff0741ac91439668e87ce251:
+      title: Verses of Advice for Meditating on Impermanence
+      parent: General
+    7a3d5536a8dc4df3ae833167039db606:
+      title: 'A Mirror Revealing the Crucial Points: Advice on the Ultimate Meaning'
+      parent: General
+    3f3a2f3f1d014cdbb681c1f98b281e0a:
+      title: Thirty Pieces of Heart Advice
+      parent: General
+    bb0a76404c51473fa78bab7b9d1098f1:
+      title: Advice for Beginners
+      parent: General
+    68112dc941704a53a2568f283d460af1:
+      title: Advice to Jigme Tenpe Nyima
+      parent: General
+    702dcafe3ad84641a410678c709ef9d3:
+      title: Essence of the 84000 Approaches to the Dharma
+      parent: General
+    8da91f014bbc4f38902820953f3c7456:
+      title: The Perfect Equality of the Dharmadhātu
+      parent: General
+    c6adec52fd9d40d69cc91b3b5f62afd0:
+      title: Advice Revealing How Our Faults Become Clear
+      parent: General
+    29d4881fcfc54e3897d361f88dbc4cfc:
+      title: Advice on Abandoning the Eight Worldly Concerns
+      parent: General
+    ef21ad991f8b4939983d5356bd8988fe:
+      title: Signs that the Common Preliminary Practices Have Penetrated the Mind
+      parent: General
+    852a6ea70c6248bb846f43c1e9cced70:
+      title: Advice for Orgyen Rigdzin
+      parent: General
+    eec8e7830aad4f47b265765dc673aa77:
+      title: Advice to Lama Rigdzin Gyatso on Understanding the Influence of Companions
+        and Avoiding and Adopting Them Accordingly
+      parent: General
+    dce9401c0da74f01823de439ff512796:
+      title: Nine Considerations and Criteria for Benefiting Beings
+      parent: General
+    57d20a32dff74f20807eebc1152c132e:
+      title: The Precious Treasury of Written Instruction Transmitted One-to-One
+      parent: General
+    c7ef137540cb4a0ea51f99b202fcfeb7:
+      title: 'The Joyous Entrance to the Path to Liberation: How to Practise the Six
+        Transcendent Perfections'
+      parent: General
+    42e0073142194046b57afb84d837e901:
+      title: An Instruction on Pure View and Conduct
+      parent: General
+    8d8015ab48a7460497d60a01d3a3723e:
+      title: Advice from the Vajra Wisdom Consort
+      parent: General
+    1c48b24943a54018b6e29c9c07d6c7a6:
+      title: Concise Spiritual Advice
+      parent: General
+    e5984a47efe64d88b6ea944d165f406b:
+      title: Advice for Gelong Jampa Dargye
+      parent: General
+    c52531fb64c64371b3f8d5ef5d11fe9d:
+      title: Advice for Tenzin Jamchen
+      parent: General
+    e7bf0a243f0d432a8cf372c365f84f38:
+      title: Advice in Four Lines
+      parent: General
+    9551102d9e494cda867af12260dc3f68:
+      title: Advice to Damngak Gyatso of Do
+      parent: General
+    755b31941b1c4980995e3b4181a95878:
+      title: Letter of Advice to Jamyang Gyaltsen
+      parent: Guru Yoga
+    ba4dcd975c424f3984b856d5e4472abd:
+      title: 'Beautiful String of Jewels: A Heart Advice'
+      parent: Heart Advice
+    807fc24429eb46c8ae1e16e699956c62:
+      title: Heart Advice in a Nutshell
+      parent: Heart Advice
+    e602a6a9075a4f3093f53e1787932ea0:
+      title: 'The Heart Essence: My Heart''s Advice'
+      parent: Heart Advice
+    6d984ead163e42fa88bcbff13d53c407:
+      title: The Universal Medicine for Healing All Ills
+      parent: In Jest
+    b847d4e354904d9e8327525b59cd78a9:
+      title: Satirical Advice for the Four Schools
+      parent: In Jest
+    78c67860f4834beaa12e72dc58b14ead:
+      title: Mahāmudrā Preliminaries, Main Part & Conclusion
+      parent: Mahāmudrā
+    bbc1558f5a5349278ee3660e44261f22:
+      title: 'Mahāmudrā: the Swift Way to Become a Lord of Realization'
+      parent: Mahāmudrā
+    9b809c646a7e4ea6bff16e4af473acb9:
+      title: The Kusāli's Instruction on the Nature of Mind
+      parent: Mahāmudrā
+    93f78247c6dd4f6487f3eb7f62d3ca78:
+      title: A Way of Settling into the Realization of Mind’s Essence
+      parent: Mahāmudrā
+    6e9bb6a35a1f4823a38797e1760040f0:
+      title: The Mahāmudrā Practice of Stillness, Movement and Awareness
+      parent: Mahāmudrā
+    40d333d8e86549279d8d6e2a4147d021:
+      title: Instructions on the Fivefold Mahāmudrā
+      parent: Mahāmudrā
+    e794155ef017494fa1f7ce80d9023e56:
+      title: Pointing Out Instruction
+      parent: Mahāmudrā
+    47c98d7433164b4394f4ea6c99cd9ec9:
+      title: 'Advice for Beginners: How to Overcome Obstacles to Meditation'
+      parent: Meditation
+    5fcf4bcbeeae4b91947bc0a6ec60b7d9:
+      title: How to Cultivate Concentration
+      parent: Meditation
+    665cc588f9f4434a82d921d4a69a57c0:
+      title: Profound Instruction on Śamatha
+      parent: Meditation
+    4e08214741d3471eb3eb6c127d9e6e5b:
+      title: How to Transform Sickness and Other Circumstances
+      parent: Mind Training
+    f4a37d1f81c2452ab98017804541ec24:
+      title: The Thirty-Seven Practices of All the Bodhisattvas
+      parent: Mind Training
+    e7db04dbd6924f229f2775a5e38b69ad:
+      title: The Instructions on Parting from the Four Attachments
+      parent: Mind Training
+    510d622ac0944f37b2db1cd634682b36:
+      title: 'Advice on Nonsectarianism (from Radiant Sunlight of the Victorious Ones''
+        Teachings: A Brief, First-Hand Account of the Liberating Life-Story of the
+        Great Emanated Treasure Revealer)'
+      parent: Nonsectarianism
+    91bcb0e3ae8d4849ba81982166c16b68:
+      title: A Sun to Banish the Darkness of Wrong Views
+      parent: Nonsectarianism
+    cf5b7adf26cc4588af3e62c71d36cc68:
+      title: 'Opening the Door of Dharma: A Brief Discourse on the Essence of All
+        Vehicles'
+      parent: Nonsectarianism
+    655a96434c1243b68b9b1c7b3a426f3a:
+      title: The Four Dharma Traditions of Tibet
+      parent: Nonsectarianism
+    2d9b642181964b4fa372c58497e4ef5b:
+      title: Advice to Three-Year Retreatants
+      parent: Retreat
+    08f04909a11842c78c9650a92d16bc2a:
+      title: Retreat Advice
+      parent: Retreat
+    32816c3c7e834b00a03abeebadc7b1db:
+      title: Song of the Enchanting Wildwoods
+      parent: Retreat
+    eb47e148cc8d4aa9b56650f7c6d72e6f:
+      title: The Heaven of Solitude
+      parent: Retreat
+    98be1b4a47114edfa434a5cf2388e9b2:
+      title: Advice for Alak Dongak
+      parent: Retreat
+    02b67fd41f534baf960322db40fb1427:
+      title: Yearning for Mountain Solitude
+      parent: Retreat
+    3aed179fc5f44431ab1797134fa47051:
+      title: Advice for Retreat
+      parent: Retreat
+    40e8980291ce496c912d02bee47f16dc:
+      title: From the Oral Tradition of the Lama of Nyarong
+      parent: Retreat
+    0eb17b05a7814c179c34eb90deaef93b:
+      title: On the Importance of Avoiding Criticism of the Guru
+      parent: Samaya
+    0a73ea11a5814ab197c80ad9be28cf70:
+      title: 'The Lion''s Roar of Definitive Meaning: A Difficult Point Concerning
+        Samaya'
+      parent: Samaya
+    c217f13306164457b22ce1b32f2a57e2:
+      title: On Jetsün Drakpa Gyaltsen’s How to Take the Practice to Heart
+      parent: Songs
+    da455efd29b244c3af0b14303e0b0f24:
+      title: How to Take the Practice to Heart
+      parent: Songs
+    c9152e39bae24013ac56e628fa44fa4a:
+      title: 'The Sound of the Divine Drum: Advice at a Time of Victory'
+      parent: Songs
+    9346696415f14fc896f8a12575be210e:
+      title: 'Rain of Accomplishments: A Song that Incorporates the Four Mindfulnesses
+        from an Instruction on the View of the Middle Way'
+      parent: Songs
+    b5a6c2008d02462ab60695d1d4bd5614:
+      title: A Short Song of Practice
+      parent: Songs
+created_at: '2022-03-01T02:38:44.640847'
+last_modified_at: '2022-03-01T02:38:44.640854'
